@@ -1,0 +1,221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chandupriya/Documents/Projects/istudents",
+		"/Users/chandupriya/Documents/Projects/istudents/app",
+		"/Users/chandupriya/Documents/Projects/istudents/app/assets",
+		"/Users/chandupriya/Documents/Projects/istudents/app/assets/javascripts",
+		"/Users/chandupriya/Documents/Projects/istudents/app/views",
+		"/Users/chandupriya/Documents/Projects/istudents/app/views/news",
+		"/Users/chandupriya/Documents/Projects/istudents/app/views/shared",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/app",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/app/views",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/app/views/shared",
+		"/Users/chandupriya/Documents/Projects/IS/istudents",
+		"/Users/chandupriya/Documents/Projects/IS/istudents/assets",
+		"/Users/chandupriya/Documents/Projects/IS/istudents/assets/css"
+	],
+	"file_history":
+	[
+		"/Users/chandupriya/Documents/Projects/IS/istudents/index.html",
+		"/Users/chandupriya/Documents/Projects/istudents/app/views/layouts/application.html.erb",
+		"/Users/chandupriya/Documents/Projects/istudents/app/views/shared/_header.html.erb",
+		"/Users/chandupriya/Documents/Projects/istudents/app/assets/javascripts/application.js",
+		"/Users/chandupriya/Documents/Projects/istudents/app/assets/stylesheets/application.css.sass",
+		"/Users/chandupriya/Documents/Projects/IS/istudents/assets/css/style.css",
+		"/Users/chandupriya/Documents/Projects/istudents/Gemfile",
+		"/Users/chandupriya/Documents/Projects/istudents/app/assets/images/logo.png",
+		"/Users/chandupriya/Documents/Projects/IS/istudents/assets/css/magnific-popup.css",
+		"/Users/chandupriya/Documents/Projects/IS/istudents/assets/css/slick.css",
+		"/Users/chandupriya/Documents/Projects/IS/istudents/assets/css/bootstrap.min.css",
+		"/Users/chandupriya/Documents/Projects/istudents/app/views/news/index.html.erb",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/app/views/layouts/application.html.erb",
+		"/Users/chandupriya/Documents/Projects/istudents/config/routes.rb",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/config/routes.rb",
+		"/Users/chandupriya/Documents/Projects/istudents/app/controllers/news_controller.rb",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/app/assets/stylesheets/application.css.sass",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/app/assets/javascripts/application.js",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/Gemfile",
+		"/Users/chandupriya/Documents/Projects/pdfgenerationdev/config/database.yml",
+		"/Users/chandupriya/Documents/Projects/istudents/config/database.yml",
+		"/Users/chandupriya/Documents/Projects/istudents/app/models/user.rb",
+		"/Users/chandupriya/Documents/Projects/istudents/db/migrate/20180312113610_devise_create_users.rb",
+		"/Users/chandupriya/Documents/Projects/istudents/.ruby-gemset",
+		"/Users/chandupriya/Documents/Projects/istudents/.ruby-version",
+		"/Users/chandupriya/Documents/Projects/istudents/.ruby-gemset ",
+		"/Users/chandupriya/Documents/Projects/istudents/.ruby-version ",
+		"/Users/chandupriya/Documents/Projects/istudents/config/environments/development.rb",
+		"/Users/chandupriya/Documents/Projects/istudents/istudents.sublime-project",
+		"/Users/chandupriya/Documents/Projects/istudents/Gemfile.lock",
+		"/Users/chandupriya/Documents/Projects/istudents/config/puma.rb",
+		"/Users/chandupriya/Documents/Projects/istudents/is.sublime-project",
+		"/Users/chandupriya/Documents/Projects/istudents/README.md",
+		"/Users/chandupriya/Documents/arraytest.rb",
+		"/Users/chandupriya/Documents/demo.rb",
+		"/Users/chandupriya/Downloads/Consent to Receive Electronic Disclosures.json",
+		"/Users/chandupriya/Downloads/CUNA Mutual_Disclosure of Relationships (Client Form).json",
+		"/Users/chandupriya/Desktop/demo.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".cbp-qtcontent",
+			"ruby_dep"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "istudents.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
