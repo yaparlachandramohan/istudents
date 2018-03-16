@@ -1,7 +1,7 @@
 # config valid for current version and patch releases of Capistrano
 
 set :application, "istudents"
-set :repo_url, '' # Edit this to match your repository
+set :repo_url, 'git@github.com:yaparlachandramohan/istudents.git' # Edit this to match your repository
 set :branch, :master
 set :deploy_to, '/home/deploy/istudents'
 set :pty, true

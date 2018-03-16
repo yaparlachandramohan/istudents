@@ -17,3 +17,10 @@
 /yarn-error.log
 
 .byebug_history
+
+config/database.yml
+public/content
+db/schema.rb
+
+#Ignore paperclip local upload
+/public/system/*
