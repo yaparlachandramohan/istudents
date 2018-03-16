@@ -176,7 +176,7 @@ iframe {
 .scrollToTop:hover, .scrollToTop:focus {
 	color: #fff;
 }
-.mu-single-slide:before {
+/*.mu-single-slide:before {
 	background-color: #8481b0;
  filter:progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr=#8481b0, endColorstr=#73b58c);
 	background-image: -moz-linear-gradient(left, #8481b0 55%, #73b58c 22%, #69bbd5 100%);
@@ -185,7 +185,7 @@ iframe {
 	background-image: -o-linear-gradient(left, #8481b0 55%, #73b58c 22%, #69bbd5 100%);
 	background-image: -ms-linear-gradient(left, #8481b0 55%, #73b58c 22%, #69bbd5 100%);
 	background-image: -webkit-gradient(linear, left bottom, right bottom, color-stop(55%, #8481b0), color-stop(22%, #73b58c), color-stop(100%, #69bbd5));
-}
+}*/
 a:hover, a:focus, .mu-book-now-btn, .mu-copy-right a:hover, .mu-copy-right a:focus, .mu-send-msg-btn:hover, .mu-send-msg-btn:focus, .mu-logo, .mu-logo:hover, .mu-logo:focus, .mu-client-quote, .mu-clients-slider .slick-prev, .mu-clients-slider .slick-next, .mu-clients-slider .slick-prev::before, .mu-clients-slider .slick-next::before, .my-why-us-single-icon {
 	color: #0091ea;
 }
